@@ -1,7 +1,11 @@
+requirments -- Django
+
 How to run tests?
 
-1. First run server 
-2. Click on the link http://127.0.0.1:8000/  you will be redirected to home page
+1. Clone repo --- "git clone https://github.com/pathanii876/accuknox_assign.git"
+2. Navigate into the Cloned Repo--- "cd accuknox_assign"
+3. First run server 
+4. Click on the link http://127.0.0.1:8000/  you will be redirected to home page
 
 Q 1. Prove that Django signals by default run synchronously
 
